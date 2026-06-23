@@ -1,0 +1,30 @@
+# Compiled Object files
+*.o
+*.obj
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.a
+*.lib
+
+# Executables
+redis-server
+redis-client
+*.exe
+*.out
+build/
+bin/
+
+# IDE files
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Operating System Files
+.DS_Store
+Thumbs.db

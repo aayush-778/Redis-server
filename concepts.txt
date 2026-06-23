@@ -1,0 +1,17 @@
+1. TCP/IP and Socket programming
+2. Concurrency and multithreading 
+3. Mutex and Sync..
+4. Data Structures -> Hash Maps, Vectors
+5. Parsing and RESP protocol
+6. File I/O Presistence
+7. Signal Handling
+8. Command Processing and Response Formatting
+9. Singleton Pattern
+10. Bitwise Operations
+11. std::
+
+RedisServer class
+
+RedisDatabase class
+
+RedisCommandHandler class
