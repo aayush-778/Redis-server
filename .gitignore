@@ -1,23 +1,17 @@
-# Compiled Object files
-*.o
-*.obj
+# Database Snapshots
+dump.my_rdb
+*.rdb
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Compiled Static libraries
-*.a
-*.lib
-
-# Executables
-redis-server
-redis-client
+# Executables & Binaries
+my_redis_server
 *.exe
 *.out
 build/
 bin/
+
+# Object Files
+*.o
+*.obj
 
 # IDE files
 .vscode/

@@ -1,4 +1,5 @@
 #ifndef REDIS_COMMAND_HANDLER_H
+#define REDIS_COMMAND_HANDLER_H
 
 #include <string>
 
