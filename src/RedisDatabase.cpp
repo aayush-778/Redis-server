@@ -2,6 +2,8 @@
 
 #include <fstream>
 #include <sstream>
+#include <algorithm>
+#include <iterator>
 
 // Singleton accessor
 RedisDatabase& RedisDatabase::getInstance() {
