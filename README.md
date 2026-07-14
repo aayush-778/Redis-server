@@ -1,5 +1,4 @@
 # Welcome to My Cpp Redis Server
-***
 
 ---
 
